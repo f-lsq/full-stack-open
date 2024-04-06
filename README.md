@@ -5,6 +5,7 @@ The additional stacks such as `GraphQL` and `TypeScript` are also a plus, given 
 Initial goal is to complete up to **part 7**.
 
 ## Course Parts and Completion Status
+| -----| -------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------- |
 | Part | Name                                                                                               | Status       | Started    | Completed  |
 | -----| -------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------- |
 |   0  | [Fundamentals of Web apps](https://fullstackopen.com/en/part0)                                     | Completed    | 2024-04-02 | 2024-04-06 |
@@ -21,10 +22,9 @@ Initial goal is to complete up to **part 7**.
 |  11  | [CI/CD](https://fullstackopen.com/en/part11)                                                       | Not in Scope | YYYY-MM-DD | YYYY-MM-DD |
 |  12  | [Containers](https://fullstackopen.com/en/part12)                                                  | Not in Scope | YYYY-MM-DD | YYYY-MM-DD |
 |  13  | [Using relational databases](https://fullstackopen.com/en/part13)                                  | Not in Scope | YYYY-MM-DD | YYYY-MM-DD |
-
+| -----| -------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------- |
 *Note: One part corresponds loosely to one week (averaging 15-20 hours)*
 
 ## Resources
-* [Course Page] (https://fullstackopen.com/en/)
-* [Personal Notes] (https://docs.google.com/document/d/18oAsTtXZvPNYTaiaRfXReuB9qUhou9R6e0TpGBDmh8g/edit#heading=h.yk1
-rufi4tp0y)
+* [Course Page](https://fullstackopen.com/en/)
+* [Personal Notes](https://docs.google.com/document/d/18oAsTtXZvPNYTaiaRfXReuB9qUhou9R6e0TpGBDmh8g/edit#heading=h.yk1rufi4tp0y)
