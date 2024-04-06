@@ -22,6 +22,6 @@ note over Browser: The browser starts executing the JavaScript code that fetches
 
 Browser->Server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
 
-Browser<--Server: Status Code: 200 - OK, JSON file data ([{"content": ..., "date": ...}], 
+Browser<--Server: Status Code: 200 - OK, JSON file data ([{"content": ..., "date": ...}], ...) 
 
 note over Browser: The browser executes the callback function that renders the notes, \nwhen readystate is 4 (DONE) and status code is 200 (OK)
