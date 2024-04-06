@@ -1,0 +1,13 @@
+title 0.6: New Note in Single Page App Diagram
+
+note left of Browser: User submits form
+
+note over Browser: DOM updated with new note data and,\nnew note data is sent as JSON string format to server
+
+Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over Server: Server receives data in JSON format, \nindicated by the "Content-Type" header
+
+Browser<--Server: Status Code: 201 - Created 
+
+note over Browser: No redirects, browser stays on the same page,\nand no further HTTP request is sent

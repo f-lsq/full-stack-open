@@ -1,0 +1,36 @@
+title 0.4: New Note Diagram
+
+note left of Browser: User submits form
+
+Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
+
+note over Server: Server creates a new note object and appends it to an array of notes
+
+Browser<--Server: Status Code: 302 - URL Redirect
+
+note over Browser: Browser reloads the Notes page
+
+Browser->Server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/notes 
+
+Browser<--Server: Status Code: 200 - OK, HTML document (notes.html)
+
+note over Browser: The browser fetches the CSS style sheet \due to links in the HTML code
+
+Browser->Server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+
+
+Browser<--Server: Status Code: 200 - OK, CSS file (main.css)
+
+note over Browser: The browser fetches the JavaScript code file due to links in the HTML code
+
+Browser->Server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.js
+
+Browser<--Server: Status Code: 200 - OK, JavaScript file (main.js)
+
+note over Browser: The browser starts executing the JavaScript code that fetches the JSON from the server
+
+Browser->Server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+
+Browser<--Server: Status Code: 200 - OK, JSON file (data.js)
+
+note over Browser: The browser executes the callback function that renders the notes, \nwhen readystate is 4 (DONE) and status code is 200 (OK)
