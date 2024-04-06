@@ -21,7 +21,6 @@ Initial goal is to complete up to **part 7**.
 |  11  | [CI/CD](https://fullstackopen.com/en/part11)                                                       | Not in Scope | YYYY-MM-DD | YYYY-MM-DD |
 |  12  | [Containers](https://fullstackopen.com/en/part12)                                                  | Not in Scope | YYYY-MM-DD | YYYY-MM-DD |
 |  13  | [Using relational databases](https://fullstackopen.com/en/part13)                                  | Not in Scope | YYYY-MM-DD | YYYY-MM-DD |
-| -----| -------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------- |
 
 *Note: One part corresponds loosely to one week (averaging 15-20 hours)*
 
