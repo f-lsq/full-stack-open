@@ -8,7 +8,7 @@ Initial goal is to complete up to **part 7**.
 | Part | Name                                                                                               | Status       | Started    | Completed  |
 | -----| -------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------- |
 |   0  | [Fundamentals of Web apps](https://fullstackopen.com/en/part0)                                     | Completed    | 2024-04-02 | 2024-04-06 |
-|   1  | [Introduction to React](https://fullstackopen.com/en/part1)                                        | Not Started  | YYYY-MM-DD | YYYY-MM-DD |
+|   1  | [Introduction to React](https://fullstackopen.com/en/part1)                                        | In Progress  | 2024-04-07 | YYYY-MM-DD |
 |   2  | [Communicating with server](https://fullstackopen.com/en/part2)                                    | Not Started  | YYYY-MM-DD | YYYY-MM-DD |
 |   3  | [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)                 | Not Started  | YYYY-MM-DD | YYYY-MM-DD |
 |   4  | [Testing Express servers, user administration](https://fullstackopen.com/en/part4)                 | Not Started  | YYYY-MM-DD | YYYY-MM-DD |
